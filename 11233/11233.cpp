@@ -5,6 +5,7 @@ int aaa=0;
 int dfdf=0;
 int dfjdjj=0;
 int dfas=0;
+
 }
 
 void loop() {
@@ -13,4 +14,6 @@ while(5);
 sprintf("jjsjdjjd");
 printf("hellowow");
 yiiijfdsjfj;
+pritnfdsf()dasd;
+
 }
